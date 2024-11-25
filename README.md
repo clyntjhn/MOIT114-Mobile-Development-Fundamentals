@@ -1,6 +1,6 @@
 # MOIT114-Mobile-Development-Fundamentals
 
-Low-Fidelity Prototype: [your link here](https://www.figma.com/proto/wlp9xPb3jEFIpji5xVzzJe/Untitled?node-id=1-6&node-type=canvas&t=sFKaOCX76IaCUgaM-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2)
+Low-Fidelity Prototype: [Figma link](https://www.figma.com/proto/wlp9xPb3jEFIpji5xVzzJe/Untitled?node-id=1-6&node-type=canvas&t=sFKaOCX76IaCUgaM-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2)
 
 ![Android Compact - 1](https://github.com/user-attachments/assets/f04ff79b-d5dd-41c3-909f-55d2cb509e1e)
 ![Android Compact - 2](https://github.com/user-attachments/assets/ddc05f90-afb1-4f76-87ec-b7790271ea5a)
